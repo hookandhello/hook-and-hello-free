@@ -1,0 +1,14 @@
+{
+  "name": "hook-critic-lite",
+  "displayName": "Hook critic lite",
+  "version": "1.0.0",
+  "description": "Check a reel hook, script or caption against your business file: PASS or REVISE with the main reason. Drafts only, nothing is posted.",
+  "author": {
+    "name": "Hook and Hello"
+  },
+  "homepage": "https://github.com/hookandhello/hook-and-hello-free",
+  "repository": "https://github.com/hookandhello/hook-and-hello-free",
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "hooks", "small business"],
+  "skills": "./skills"
+}
