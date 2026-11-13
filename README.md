@@ -18,6 +18,7 @@ On a made-up watercolour class business:
 ## Get it
 
 - Hook critic lite: `skills/hook-critic-lite/SKILL.md` in this repo, MIT licence.
+- In Claude Code: `/plugin marketplace add hookandhello/hook-and-hello-free`, then `/plugin install hook-critic-lite@hook-and-hello-free`.
 - Free download (both skills as a ready plugin, plus a 1-page setup guide with the business file template): https://hookandhello.gumroad.com/l/phjcip
 
 You need Claude Pro or a higher plan to install plugins. The skills read a short business file, `business-context.md`; the free guide has the template.
